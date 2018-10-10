@@ -18,6 +18,7 @@
 *.sav
 *.zip
 *.dot
+*.h5
 
 # Hidden Folders
 Whitepapers
