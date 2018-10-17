@@ -89,6 +89,9 @@
 	<array/>
 	<key>queryHistory</key>
 	<array>
+		<string># pdfwpdfpdrstdrstdrstdrstdrstd
+
+Select * FROM trdf</string>
 		<string>RENAME TABLE Google Play Store TO google_play_store</string>
 		<string>RENAME TABLE Google Play Store TO user_reviews</string>
 		<string>Select * from mushrooms</string>
@@ -112,8 +115,6 @@ SELECT 'Home Team Goals' FROM MATCHES</string>
 		<string>Goals FROM MATCHES</string>
 		<string>SELECT Home Team Goals FROM MATCHES</string>
 		<string>create table 'matches'</string>
-		<string>USE kickstarter;
-SELECT * FROM campaign</string>
 	</array>
 	<key>rdbms_type</key>
 	<string>mysql</string>
